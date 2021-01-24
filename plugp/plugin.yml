@@ -1,0 +1,11 @@
+name: MilkGangBaby
+main: myplugin.Plugin
+version: 1.0
+author: PyxlDavon
+commands:
+    explode:
+        description: Explodes
+        usage: /explode
+    cow:
+        description: Summon cow at player's location
+        usage: /cow
