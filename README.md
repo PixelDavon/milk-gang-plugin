@@ -4,6 +4,8 @@ Over powered milk in minecraft 1.16.4 ( milk gang baby )
 # Info
 Hello there pepol. This plugin was from a youtube tutorial where i made another shit on it, it was the explode, and cow command, /explode just explodes at player's location and /cow summons cow at player's location too, the explode can break blocks so becareful with it, don't wanna ruin someone's world :)
 
+i know im a dumb programmer cuz im new to java and everything i just started today and got my first plugin worked!11!1!!
+
 # Effects
 You can change the effects and stuff in source code
 but for now, there is:
