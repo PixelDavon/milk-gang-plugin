@@ -29,6 +29,10 @@ my youtube: https://www.youtube.com/pyxldavon
 
 twiwtch : https://twitch.tv/pyxldavon
 
+# donaet pls?
+
+https://paypal.me/davonjev
+
 # Download
 
 Download in release!
