@@ -16,9 +16,7 @@ i know im a dumb programmer cuz im new to java and everything i just started tod
 
 # Download
 
-Download in release:  https://github.com/PixelDavon/milk-gang-plugin/releases/tag/main/OPMilk.jar
-
-Release page:  https://github.com/PixelDavon/milk-gang-plugin/releases/tag/main
+Download in release:  https://github.com/PixelDavon/milk-gang-plugin/releases/tag/main/
 
 # Effects
 You can change the effects and stuff in source code
