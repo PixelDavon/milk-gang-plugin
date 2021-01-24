@@ -6,6 +6,12 @@ Hello there pepol. This plugin was from a youtube tutorial where i made another 
 
 i know im a dumb programmer cuz im new to java and everything i just started today and got my first plugin worked!11!1!!
 
+# Download
+
+Download in release:  https://github.com/PixelDavon/milk-gang-plugin/releases/tag/main/OPMilk.jar
+
+Release page:  https://github.com/PixelDavon/milk-gang-plugin/releases/tag/main
+
 # Effects
 You can change the effects and stuff in source code
 but for now, there is:
@@ -34,7 +40,3 @@ twiwtch : https://twitch.tv/pyxldavon
 # donaet pls?
 
 https://paypal.me/davonjev
-
-# Download
-
-Download in release! https://github.com/PixelDavon/milk-gang-plugin/releases/tag/1.0
