@@ -35,4 +35,4 @@ https://paypal.me/davonjev
 
 # Download
 
-Download in release!
+Download in release! https://github.com/PixelDavon/milk-gang-plugin/releases/tag/1.0
