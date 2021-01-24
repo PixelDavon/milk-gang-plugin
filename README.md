@@ -8,7 +8,7 @@ Over powered milk in minecraft 1.16.4 ( milk gang baby )
 Hello there pepol. This plugin was from a youtube tutorial where i made another shit on it, it was the explode, and cow command, /explode just explodes at player's location and /cow summons cow at player's location too, the explode can break blocks so becareful with it, don't wanna ruin someone's world :)
 
 # Info
-Other than the commands i made (useless), i made whenever you drink milk you have op effects. Not really but you can change it. My iq was iq-- every 1 second because its just confusing so i made it whenever you drink milk your drinking will be canceled and add effects, so sorry if you are confused about the weird milk short drink.
+Other than the useless commands i made, i made it whenever you drink milk you have op effects. Not really but you can change it. My iq was iq-- every 1 second because its just confusing so i made it whenever you drink milk your drinking will be canceled and add effects, so sorry if you are confused about the weird milk short drink.
 
 Ok that's all for info.
 
